@@ -2,6 +2,7 @@ name: KWbeta
 favicon: null
 layout_spectrum: 0.7864795853383839
 typography_spectrum: 0.16816561296582222
+title: KWBETA
 cta:
   domain: null
   bucket: null
