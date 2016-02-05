@@ -1,0 +1,28 @@
+name: KWbeta
+favicon: null
+layout_spectrum: 0.7864795853383839
+typography_spectrum: 0.16816561296582222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8581402401905507
+  lightness: 0.8215327167417854
+  saturation: 0.8366643523331732
+  rhythmicContrast: 0.4197182927746326
+purpose: []
