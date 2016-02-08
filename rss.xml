@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KWBETA]]></title>
         <description><![CDATA[KWBETA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kwbeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 21:57:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 07:03:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kwbeta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Frederik er vild</p>]]></description>
-            <link>undefined635edc6d-dd9a-40a8-af0a-18df66bde90a/index.html</link>
+            <title><![CDATA[                        Frederik er vild]]></title>
+            <description><![CDATA[<article><h1>                        Frederik er vild</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea895d2205dfa922d6cd046760b498b7b9c5a165.png"></article>]]></description>
+            <link>https://thegrid.ai/kwbeta/635edc6d-dd9a-40a8-af0a-18df66bde90a/index.html</link>
             <guid isPermaLink="false">635edc6d-dd9a-40a8-af0a-18df66bde90a</guid>
-            <pubDate>Fri, 05 Feb 2016 21:56:56 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 07:02:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
