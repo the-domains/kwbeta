@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About us
+    url: www.knowledgeworker.dk
+    type: external
 favicon: null
 collections:
   - index:
