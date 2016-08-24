@@ -1,8 +1,30 @@
-name: KWbeta
-favicon: null
-layout_spectrum: 0.90363
 typography_spectrum: 0.2289
-title: KWBETA
+color:
+  brandColors:
+    - '#f3f8fe'
+    - '#10130a'
+    - '#b7d9fe'
+    - '#9e9e9e'
+    - '#6e6757'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.90363
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: KWbeta
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#f3f8fe'
-    - '#10130a'
-    - '#b7d9fe'
-    - '#9e9e9e'
-    - '#6e6757'
-  brandStrength: 0.3125
-  lightness: 0.375
-  saturation: 0.375
-  rhythmicContrast: 1
+title: KWBETA
+description: Ite beta
 purpose: []
